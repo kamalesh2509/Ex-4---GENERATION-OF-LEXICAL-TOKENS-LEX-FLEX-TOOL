@@ -31,11 +31,11 @@ To write a lex program to implement lexical analyzer to recognize a few patterns
 
 6.	Compile the lex program with lex compiler to produce output file as lex.yy.c. eg $ lex filename.l $ cc lex.yy.c
 7.	Compile that file with C compiler and verify the output.
-# PROGRAM
 ```
 Name : E kamalesh
 Reg No : 212222100019
 ```
+# PROGRAM
 ```
 /* program name is lexp.l */ 
 %{ 
